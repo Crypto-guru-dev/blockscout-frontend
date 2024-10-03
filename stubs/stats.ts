@@ -49,14 +49,14 @@ export const STATS_CHARTS_SECTION: stats.LineChartSection = {
     {
       id: 'chart_0',
       title: 'Average transaction fee',
-      description: 'The average amount in ETH spent per transaction',
-      units: 'ETH',
+      description: 'The average amount in BEXC spent per transaction',
+      units: 'BEXC',
     },
     {
       id: 'chart_1',
       title: 'Transactions fees',
       description: 'Amount of tokens paid as fees',
-      units: 'ETH',
+      units: 'BEXC',
     },
     {
       id: 'chart_2',
